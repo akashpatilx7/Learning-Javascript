@@ -1,5 +1,0 @@
-// ****** ECMAScript ****** 
-
-ECMAScript is a standard by which Javascript is being maintained. 
-
-Modern Javascript is from ES5 onwards.
