@@ -1,8 +1,8 @@
 /*
 
-The "const" keyword is used to declare only such variables that once defined, need not to be changed or should not be changed accidentaly by the programmer. (Requirement of the system not to change the value of that variable, in some cases.)
+* The "const" keyword is used to declare only such variables that once defined, need not to be changed or should not be changed accidentaly by the programmer. (Requirement of the system not to change the value of that variable, in some cases.)
 
-A variable that should not get its value changed by the programmer even accidentaly should always be declared with a "const" keyword instead of "var" or "let".
+* A variable that should not get its value changed by the programmer even accidentaly should always be declared with a "const" keyword instead of "var" or "let".
 
 */
 
