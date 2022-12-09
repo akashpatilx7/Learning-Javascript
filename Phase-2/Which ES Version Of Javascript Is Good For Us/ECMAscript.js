@@ -13,4 +13,4 @@
 
 */
 
-console.log("ECMAScript")
+console.log("ECMAScript");
