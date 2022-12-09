@@ -50,4 +50,4 @@ console.log(`
              User is: ${fullName}
              and his email is: ${email}
              and uses the password: ${password}
-`)
+`);
