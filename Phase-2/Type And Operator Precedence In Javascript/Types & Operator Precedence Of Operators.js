@@ -25,3 +25,7 @@ console.log(
 var result = listingPrice > sellingPrice;
 
 console.log(result);
+
+console.log(typeof result);
+
+// "typeof" is a keyword (rather an operator) which can be used to find the datatype of a particular variable.
