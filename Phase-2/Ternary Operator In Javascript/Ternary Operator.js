@@ -18,6 +18,7 @@ else{
 }
 
 
+
 /*
 
 TERNARY Operators : CONDITION ? if : else;
@@ -25,3 +26,4 @@ TERNARY Operators : CONDITION ? if : else;
 authenticated ? "Show SIGNOUT Button" : "Show LOGIN/ SIGNUP Button";
 
 */
+

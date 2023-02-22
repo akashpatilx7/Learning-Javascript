@@ -24,6 +24,8 @@ var cardInfo = false;
 //   }
 // }
 
+
+
 if(isLoggedIn && isEmailVerified && cardInfo){
   console.log("You can do purchase for a Particular Course");
 }

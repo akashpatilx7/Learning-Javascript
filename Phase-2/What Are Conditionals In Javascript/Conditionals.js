@@ -11,7 +11,6 @@ Each & everything inside the "()" should be evaluated to Boolean Values i.e to T
 */
 
 var temparature;
-
 temparature=20;
 
 if(temparature < 20){

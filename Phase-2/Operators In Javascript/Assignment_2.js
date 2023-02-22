@@ -4,6 +4,7 @@ Given the Listing Price & the Selling Price of a Particular Course on the LearnC
 
 */
 
+
 var listingPrice = 799;
 var sellingPrice = 199;
 
