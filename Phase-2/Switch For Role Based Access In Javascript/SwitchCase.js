@@ -22,6 +22,7 @@ Q. Create an application with the following roles :
 
 var user = "testprep";
 
+// Concept of "FALLTHROUGH" 
 switch(user){
   case "admin":
     console.log("gets full access");
@@ -43,3 +44,5 @@ switch(user){
     console.log("Trial User");
     break;
 }
+
+// break in the case of default is OPTIONAL !
