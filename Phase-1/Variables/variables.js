@@ -1,5 +1,6 @@
 // ******* 3. Javascript Variables ******
 
+
 // What are Variables ? -----> Containers to store data values
 
 var number1 = 34;

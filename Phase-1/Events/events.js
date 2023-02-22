@@ -1,5 +1,6 @@
 // ****** Events In Javascript ******
 
+
 function clicked(){
     console.log('The button was clicked.');
 }

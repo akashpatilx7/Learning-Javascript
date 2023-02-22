@@ -40,5 +40,5 @@ clr=setTimeout(logkaro,5000);
 // Note : By passing this clr to clearTimeout(), we can clear the previously set Timeout.
 
 
-
 // SYNTAX : clearTimeout/clearInterval ke PARAMETERS main woh pass krna padta hain jo setTimeout/ setInterval return kr rha hain !
+

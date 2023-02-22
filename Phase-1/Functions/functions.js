@@ -1,5 +1,6 @@
 // ****** Javascript Functions ******
 
+
 // NOTE : DRY PRINCIPLE ----> DO NOT REPEAT YOURSELF !
 
 function avg(a, b) {

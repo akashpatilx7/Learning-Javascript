@@ -1,5 +1,6 @@
 // ****** 5. Operators in Javascript ******
 
+
 // Arithmetic Operators 
 var a = 100;
 var b = 10;

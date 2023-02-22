@@ -5,6 +5,7 @@
 
 // Every domain has its Local Storage. 
 
+
 // Syntax to setItem 
 localStorage.setItem('name', 'Akash');
 

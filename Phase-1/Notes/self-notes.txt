@@ -1,6 +1,7 @@
 Multiline (Block) Comments :
 Javascript multiline comments, also known as block comments, start with a forward slash followed by an asterisk and end with an asterisk followed by a forward slash. They do not require a comment delimiter character on every line and may contain newlines.
 
+
 A delimiter is a sequence of one or more characters for specifying the boundary between separate, independent regions in plain text, mathematical expressions or other data streams. An example of a delimiter is the comma character, which acts as a field delimiter in a sequence of comma-separated values.
 
 

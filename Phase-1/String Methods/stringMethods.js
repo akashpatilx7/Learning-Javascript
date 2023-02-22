@@ -1,5 +1,6 @@
 // ****** String Methods in Javascript ******
 
+
 let myLovelyString = "Harry is a good boy, also Harry is a good student.";
 
 // Length

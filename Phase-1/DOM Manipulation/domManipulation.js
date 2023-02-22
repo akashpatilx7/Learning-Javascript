@@ -1,4 +1,5 @@
 // ****** DOM MANIPULATION (IMP) ****** 
+
 /* 
 
 DOM stands for DOCUMENT OBJECT MODEL. 

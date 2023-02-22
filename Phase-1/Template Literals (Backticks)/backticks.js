@@ -1,5 +1,6 @@
 // ****** Template Literals : Backticks ****** 
 
+
 a=34;
 console.log(`This is my ${a}`);
 
