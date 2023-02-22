@@ -16,3 +16,12 @@ if(authenticated){
 else{
   console.log("Show LOGIN/ SIGNUP Button");
 }
+
+
+/*
+
+TERNARY Operators : CONDITION ? if : else;
+
+authenticated ? "Show SIGNOUT Button" : "Show LOGIN/ SIGNUP Button";
+
+*/
