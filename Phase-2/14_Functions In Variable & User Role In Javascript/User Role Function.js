@@ -14,7 +14,9 @@ Q. Define a function that can answer the role of an user. An user can be on the 
 */
 
 
-function getUserRole(name, role){
+
+function getUserRole(name, role) {
+
   /* 
   
   # Using a variable to declare a function
@@ -31,7 +33,7 @@ function getUserRole(name, role){
   */
 
 
-  switch(role){
+  switch (role) {
     case "admin":
       return `${name} is an admin with all access`;
       break; // This is not neccessary ! (After a RETURN STATEMENT, the rest of the code never executes. So)
@@ -54,11 +56,14 @@ function getUserRole(name, role){
   }
 }
 
+
+
 // getUserRole(name, role); ----> A function call just returns us with a value. It does not put anything on to the console.
+
 
 console.log(getUserRole("Akash", "admin"));
 
 
 // Using a Variable to print a Function
-var getRole=getUserRole("Karan", "subadmin");
+var getRole = getUserRole("Karan", "subadmin");
 console.log(getRole);
